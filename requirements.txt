@@ -1,0 +1,8 @@
+stable-baselines3[extra]
+swig
+gymnasium[box2d]
+sb3-contrib
+conda
+tensorflow
+tensorboard
+
